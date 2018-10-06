@@ -1,0 +1,2 @@
+# shellcodeInject
+shellCode线程注入 就是在目标进程空间中构造一小段代码调用LoadLibrary函数而已
